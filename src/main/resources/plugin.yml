@@ -1,0 +1,6 @@
+name: HidePlugins
+version: '${version}'
+main: earth2b2t.hideplugins.HidePlugins
+prefix: HidePL
+authors: [ rabies ]
+description: good

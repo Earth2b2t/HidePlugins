@@ -1,0 +1,2 @@
+# Hide Plugins
+tabcomplete momento
